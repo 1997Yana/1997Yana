@@ -1,5 +1,21 @@
 <h2>&nbsp;В этом репозитории вы можете ознакомиться с тест-планом тестирования календаря преподавателя онлайн-школы Skyeng</h2>
 
+Postman 
+https://drive.google.com/file/d/171lvbvLyJkYfFP9jCi44AMpJJgem2efk/view?usp=sharing
+
+qase.io
+https://drive.google.com/file/d/1UfFH3UIPWJJsUMUyDowx9ToUrKDu2hqT/view?usp=sharing
+https://drive.google.com/file/d/1izs2Nkm2nWIKTxBC9ocTK_A3Y9wsUCTV/view?usp=sharing
+https://drive.google.com/file/d/1I1rgUysxpzd3cAnF0NYo8f-g-VgjXLK8/view?usp=sharing
+
+sitechco
+https://docs.google.com/spreadsheets/d/1Nz1DD2wQ-kBbdotTk0G5xa3gTsuvk37o/edit?usp=sharing&ouid=116493720082080977298&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/1sWg5Gqfo5mnNxCsr7F5S_-2Ajnp6qFZZ/edit?usp=sharing&ouid=116493720082080977298&rtpof=true&sd=true
+
+Jira (bug)
+https://docs.google.com/document/d/1S9BYzVUQuzDqQbkMLBDsKiWXNAWEHziy/edit?usp=sharing&ouid=116493720082080977298&rtpof=true&sd=true
+https://docs.google.com/document/d/1N60AusiC-p_fF0xxR5ccpHw1tkDr7aUq/edit?usp=sharing&ouid=116493720082080977298&rtpof=true&sd=true
+
 ![2023-08-31_14-29-50](https://github.com/1997Yana/1997Yana/assets/143534418/d7b626ab-9d19-4695-9d8c-324f05e0bbfc)
 ![2023-08-31_14-30-25](https://github.com/1997Yana/1997Yana/assets/143534418/9cefcb37-ecdf-4eb2-b281-984b0a8e6925)
 ![2023-08-31_14-31-04](https://github.com/1997Yana/1997Yana/assets/143534418/69518a2e-dd13-49ab-8494-470394f26986)
